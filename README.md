@@ -8,7 +8,7 @@ This project implements an image detection system using a Convolutional Neural N
 
 ## 📋 Project Structure
 ```
-├── image_detection.ipynb   # CNN Model and Training Code (Jupyter Notebook)
+├── image_detection_.ipynb   # CNN Model and Training Code (Jupyter Notebook)
 ├── README.md               # Project Documentation
 └── requirements.txt        # Dependencies
 ```
@@ -38,7 +38,7 @@ cd Image_detection
 2. Open the Jupyter Notebook:
 
 ```bash
-jupyter notebook image_detection.ipynb
+jupyter notebook image_detection_.ipynb
 ```
 
 Ensure you have Jupyter Notebook installed. If not, install it using:
