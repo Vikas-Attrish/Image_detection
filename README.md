@@ -8,9 +8,9 @@ This project implements an image detection system using a Convolutional Neural N
 
 ## 📋 Project Structure
 ```
-├── model.py          # CNN Model and Training Code
-├── README.md         # Project Documentation
-└── requirements.txt  # Dependencies
+├── image_detection.ipynb   # CNN Model and Training Code (Jupyter Notebook)
+├── README.md               # Project Documentation
+└── requirements.txt        # Dependencies
 ```
 
 ## 🧰 Requirements
@@ -27,8 +27,25 @@ matplotlib
 numpy
 ```
 
+## 🚀 How to Run
+1. Clone the repository:
 
+```bash
+git clone https://github.com/Vikas-Attrish/Image_detection.git
+cd Image_detection
+```
 
+2. Open the Jupyter Notebook:
+
+```bash
+jupyter notebook image_detection.ipynb
+```
+
+Ensure you have Jupyter Notebook installed. If not, install it using:
+
+```bash
+pip install notebook
+```
 
 ## 📈 Model Summary
 - **Architecture**:
@@ -61,4 +78,5 @@ Feel free to submit issues or pull requests!
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
+
 
